@@ -1,0 +1,6 @@
+dash
+dash-bootstrap-components
+plotly
+yfinance
+# I think that should cover it, but you may need to install more packages
+```

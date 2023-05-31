@@ -2,6 +2,8 @@
 
 This is a Python script that creates a cryptocurrency dashboard using Dash, a Python framework for building analytical web applications. The dashboard displays real-time price charts and percentage change of two cryptocurrencies, Bitcoin (BTC) and Ethereum (ETH).
 
+Currently this is all I have done. 
+![Current Dashboard](images/Screenshot%202023-05-31%20at%2010.26.58%20AM.png)
 ## Dependencies
 - Dash: The main framework used to create the web application.
 - Dash Bootstrap Components: Provides Bootstrap-themed Dash components for styling the dashboard.
